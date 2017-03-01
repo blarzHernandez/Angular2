@@ -17,7 +17,13 @@ Application based in Angular 2 with Angular CLI
 $ ng version
 ```
 
-4.Create app skeleton.
+4. Create app skeleton.
  ```
- $ ng new name-app-angular2
+ $ ng new crud-angular2
 ```
+5. Navigate to the new directory (crud-angular2)
+ ```
+ $ cd crud-angular2
+```
+
+
