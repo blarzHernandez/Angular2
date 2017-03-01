@@ -21,9 +21,14 @@ $ ng version
  ```
  $ ng new crud-angular2
 ```
-5. Navigate to the new directory (crud-angular2)
+5. Navigate to the new directory (crud-angular2).
+
  ```
  $ cd crud-angular2
 ```
 
+6. Start the angular CLI development Serve. Usually in http://localhost:4200/
 
+ ```
+ $ ng serve
+```
