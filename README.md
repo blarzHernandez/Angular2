@@ -32,3 +32,8 @@ $ ng version
  ```
  $ ng serve
 ```
+
+# Creating the Main (CrudAngular) Class.
+ ```
+ $ ng generate class CrudAngular --spec ()
+```
