@@ -17,7 +17,7 @@ Application based in Angular 2 with Angular CLI
 $ ng version
 ```
 
-4- Create app skeketon
+4.Create app skeleton.
  ```
-$ ng new name-app-angular2
+ $ ng new name-app-angular2
 ```
